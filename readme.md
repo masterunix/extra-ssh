@@ -12,5 +12,13 @@ Instructions will be provided once the project is more stable.
 Feel free to fork and contribute. Contributions are welcome as development continues.
 
 ## License
-This project is open source and available under the MIT License.
+
+- You may use this software for personal, non-commercial purposes only.
+- You may not redistribute, modify, or create derivative works based on this software.
+- Commercial use requires a commercial license agreement.
+- For any modifications or redistribution, express written permission is required from the author.
+- This software is provided "as-is", without warranty of any kind.
+
+## Usage
+You may use this software for personal use. If you wish to redistribute, modify, or use this software in a commercial setting, please contact the author to obtain a commercial license.
 
